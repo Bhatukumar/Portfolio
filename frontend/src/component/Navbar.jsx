@@ -6,7 +6,7 @@ import { BiSolidContact } from "react-icons/bi";
 
 function Navbar() {
   return (
-    <div className="flex justify-center items-center h-3/5 w-2/12">
+    <div className="flex justify-center items-center w-2/12">
       <div className="flex flex-col justify-center items-center h-full w-34 bg-white rounded-2xl text-center p-3 gap-3">
         <div className="flex flex-col justify-center items-center h-24 w-24 bg-gray-300 rounded-2xl">
           <div className="">
